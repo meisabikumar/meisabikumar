@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/meisabikumar/meisabikumar/master/wave.gif" width="30px">
+
 

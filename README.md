@@ -4,7 +4,6 @@ Hi 👋 My name is Abhishek Kumar
 Full Stack web developer
 ------------------------
 
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Bengaluru,India
 * 🖥️  See my portfolio at [meisabikumar.github.io](http://meisabikumar.github.io/)
